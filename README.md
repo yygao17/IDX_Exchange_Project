@@ -55,5 +55,7 @@ All datasets used in this project are provided through the IDX Exchange internsh
 ## Author
 
 Yue Gao
+
 MSBA 1-year Student, University of Southern California
+
 IDX Exchange Data Analyst Intern
