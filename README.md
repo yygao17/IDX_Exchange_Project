@@ -56,6 +56,6 @@ All datasets used in this project are provided through the IDX Exchange internsh
 
 Yue Gao
 
-MSBA 1-year Student, University of Southern California
+Master of Science in Business Analytics 1-year Student, University of Southern California
 
 IDX Exchange Data Analyst Intern
